@@ -1,6 +1,6 @@
 ### Table of Contents
 
-1. [Speech Cognitive Services](https://github.com/SheldonEdwards/SheldonPortfolioTest/new/main#using-speech-services-for-translation)
+1. [Speech Cognitive Services](https://github.com/SheldonEdwards/SheldonPortfolioTest/tree/main#using-speech-services-for-translation)
 
 URL Links appear next to headings in preview, which can be copied an used ot create links from ToC above
 
